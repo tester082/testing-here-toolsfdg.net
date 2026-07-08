@@ -1,2 +1,4 @@
-toolsfdg.net
-https://toolsfdg.net
+def toolsfdg():
+    domain = "toolsfdg.net"
+    return domain
+print(toolsfdg())
